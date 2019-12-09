@@ -1,0 +1,18 @@
+
+.customIMGnav {
+     width: 80px;
+}
+main {
+background: rgb(255, 255, 255); 
+    /* border: red solid 2px; */
+    width: 100%;
+    
+    /* display: flex; */
+    
+}
+section{
+    /* border: yellowgreen solid 2px ; */
+}
+.customColorTexto{
+    color: white;
+}
